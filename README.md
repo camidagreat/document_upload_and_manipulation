@@ -12,15 +12,15 @@ data, computes some stuff, and then outputs that stuff.
 The input file contains people's names as well as some other data.
 Here's an example of the input:
 
-  Schuppe, Suzanne -- velit
-      Expedita nihil ad aut similique facilis numquam blanditiis.
-  Cronin, Bella -- tempore
-      Omnis quos veritatis ea sequi est nostrum.
-      Ex eum architecto ab vel non pariatur.
-  Runolfsson, Dayna -- molestias
-      Maiores facilis ut consequatur.
-  Robel, Deshawn -- quisquam
-      Rerum sit aut et.
+  Schuppe, Suzanne -- velit</br>
+   &nbsp;&nbsp;&nbsp; Expedita nihil ad aut similique facilis numquam blanditiis.</br>
+  Cronin, Bella -- tempore</br>
+   &nbsp;&nbsp;&nbsp; Omnis quos veritatis ea sequi est nostrum.</br>
+   &nbsp;&nbsp;&nbsp; Ex eum architecto ab vel non pariatur.</br>
+  Runolfsson, Dayna -- molestias</br>
+   &nbsp;&nbsp;&nbsp; Maiores facilis ut consequatur.</br>
+   Robel, Deshawn -- quisquam</br>
+  &nbsp;&nbsp;&nbsp; Rerum sit aut et.</br>
 
 The names are in Lastname, Firstname format.  You can make a
 simplifying assumption that all names contain only letters.  (Names
